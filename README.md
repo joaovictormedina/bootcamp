@@ -1,6 +1,3 @@
-Aqui está o README formatado para o projeto `landing-page-bootcamp-treinamento-intensivo`:
-
-```markdown
 # Landing Page Bootcamp - Treinamento Intensivo
 
 ## Descrição
